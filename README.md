@@ -15,7 +15,7 @@
 [Wechat SDK 2.0 文档](https://silenceper.com/wechat)
 
 [Wechat SDK 2.0 例子](https://github.com/gowechat/example)
-
+fork后的初始提交
 ## 快速开始
 
 ```
