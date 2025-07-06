@@ -4,9 +4,9 @@ import (
 	context2 "context"
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/ojahe/wechat/v2/credential"
+	"github.com/ojahe/wechat/v2/officialaccount/context"
+	"github.com/ojahe/wechat/v2/util"
 )
 
 // Js struct

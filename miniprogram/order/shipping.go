@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/ojahe/wechat/v2/miniprogram/context"
+	"github.com/ojahe/wechat/v2/util"
 )
 
 const (

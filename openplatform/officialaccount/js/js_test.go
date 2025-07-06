@@ -10,11 +10,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/silenceper/wechat/v2/cache"
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/officialaccount/config"
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/ojahe/wechat/v2/cache"
+	"github.com/ojahe/wechat/v2/credential"
+	"github.com/ojahe/wechat/v2/officialaccount/config"
+	"github.com/ojahe/wechat/v2/officialaccount/context"
+	"github.com/ojahe/wechat/v2/util"
 )
 
 // mockAccessTokenHandle 模拟 AccessTokenHandle

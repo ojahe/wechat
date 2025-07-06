@@ -1,7 +1,7 @@
 package express
 
 import (
-	"github.com/silenceper/wechat/v2/miniprogram/context"
+	"github.com/ojahe/wechat/v2/miniprogram/context"
 )
 
 // Express 微信物流服务
